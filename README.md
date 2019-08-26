@@ -8,6 +8,8 @@ Here, we will create a data visualisation that represents the relative performan
 
 I have included both the compiled and source C++ code that was used to compute our normalisations and their computation times, as well as all of the source images.
 
+#### [Use nbviewier in order to see the animation, it does not render correctly within GitHub] (https://nbviewer.jupyter.org/github/pboulos/Election-Retrospective/blob/master/OntarioElections.ipynb). ####
+
 ## Modules You'll Need to Clone 
 
 It's easiest to clone this if you have Python installed within an Anaconda environment (ideally conda-forge). However, should you wish to have an explicit list of modules that you would need, here it is:
