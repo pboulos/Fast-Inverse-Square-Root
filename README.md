@@ -8,7 +8,7 @@ Here, we will create a data visualisation that represents the relative performan
 
 I have included both the compiled and source C++ code that was used to compute our normalisations and their computation times, as well as all of the source images.
 
-#### [Use nbviewier in order to see the animation, it does not render correctly within GitHub] (https://nbviewer.jupyter.org/github/pboulos/Election-Retrospective/blob/master/OntarioElections.ipynb). ####
+#### [Use nbviewier in order to see the animation, it does not render correctly within GitHub](https://nbviewer.jupyter.org/github/pboulos/Election-Retrospective/blob/master/OntarioElections.ipynb).
 
 ## Modules You'll Need to Clone 
 
