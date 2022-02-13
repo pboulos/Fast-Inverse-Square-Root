@@ -4,7 +4,7 @@ In 1999, id Software released the latest John Carmack offering: Quake III Arena.
 
 To give some context, a major aspect of 3D scene rendering is computing the angles of incidence for things like lighting, shadows, and reflections. Part of this process is accomplished by computing vector normalisations, which requires that an inverse square root be taken.
 
-Here, we will create a data visualisation that represents the relative performance gains of using the Q_rsqrt formula, in coparison to explicitly computing 1/sqrt(f).
+Here, we will create a data visualisation that represents the relative performance gains of using the Q_rsqrt formula, in comparison to explicitly computing 1/sqrt(f).
 
 I have included both the compiled and source C++ code that was used to compute our normalisations and their computation times, as well as all of the source images.
 
